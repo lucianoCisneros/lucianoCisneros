@@ -4,7 +4,7 @@ Hi 👋 My name is Luciano Cisneros
 Full Stack Web developer
 ------------------------
 
-I'm a full stack dev, but have really found a passion for frontend development. In constant learning, self-taught and tenacious.
+I'm a full stack dev, but have really found a passion for frontend development.
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [lucianoe.cisneros@gmail.com](mailto:lucianoe.cisneros@gmail.com)
