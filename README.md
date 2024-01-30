@@ -1,10 +1,12 @@
 Hi 👋 My name is Luciano Cisneros
 =================================
 
-Full Stack Web developer
+Front end developer
 ------------------------
 
-I'm a full stack dev, but have really found a passion for frontend development.
+A passionate front-end developer dedicated to crafting captivating and functional web experiences. With a keen eye for design and a knack for clean, efficient code, I specialize in delivering dynamic user interfaces that drive engagement and satisfaction.
+
+Throughout my career, I've tackled diverse projects, honing my skills in responsive design, performance optimization, and collaborative teamwork. I thrive on challenges and am committed to exceeding expectations, delivering exceptional results for clients and teams alike.
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [lucianoe.cisneros@gmail.com](mailto:lucianoe.cisneros@gmail.com)
